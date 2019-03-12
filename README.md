@@ -1,21 +1,15 @@
 ## Project Title
 
 ### Portfolio Website
- This is a _portfoilo website_. It is a web page layout for one's profile. It contains the different works / projects done and skills in a user friendly format.
+ This is a _portfoilo website_. It contains a web page for one's professional profile. It contains the different works / projects done and skills. It has a user friendly format and it's responsive over different screens.
  
-## Pre-requisites
-1. Download the folders viz. **html**, **css** and **img** from given github repository location.
-2. Download any web browser eg. _chrome_, _firefox_ etc.
-
-## Installation
-1. Download the given project folders and place them inside a same folder say _portfolio website_.
-**html** folder contains **portfolio.html** file
-**css** folder contains **style.css** file
-**img** folder contains few images used.
-2. Download any of the browsers mentioned above. 
+## Pre-requisites and Installation
+1. Download / Clone the project from given github repository.
+2. Check for the hierarchy and place the folders accordingly.
+3. Download any web browser eg. _chrome_, _firefox_ etc to run the project.
 eg. for downloading _Chrome_ browser click [here](https://www.google.com/chrome/browser/desktop/index.html)
 **Note : _This project is using HTML5 and HTML5 is supported by all modern browsers._**
-3. Run **portfolio.html** to get the web page.
+4. Run **portfolio.html** to get the web page.
 
 ## Code Example
 This project includes the following files :
@@ -48,10 +42,10 @@ Simple tests can be done
 1. On webpage - for the display of header and footer positions, images, text etc. 
 2. The web page display on devices with different widths.
 
-
 ## References
 1. [HTML and HTML5](https://www.w3schools.com/html/html5_intro.asp)
-3. [CSS and CSS3](https://www.w3schools.com/css/css_intro.asp)
+2. [CSS and CSS3](https://www.w3schools.com/css/css_intro.asp)
+3. [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 ## Author
 Sneha Kale
